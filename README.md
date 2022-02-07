@@ -1,4 +1,7 @@
 # zhafran-email
+
+<img src="https://i0.wp.com/hoomix.me/wp-content/uploads/2020/08/free-canva-and-html-email-newsletter-templatecover-2.png?fit=2360%2C1680&ssl=1">
+
 Free email newsletter by <a href="https://hoomix.me">hoomix</a>
 <br>
 Zhafran total creative freedom and full control over how your newsletter looks with Canva’s user-friendly interface. No more generic or boring-looking emails, it’s time to connect with your dream audience and build a killer brand!
